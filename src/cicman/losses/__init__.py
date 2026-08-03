@@ -1,0 +1,48 @@
+"""Training losses for causal consistency, disentanglement, and routing."""
+"""Loss functions for CIC-MAN experiments."""
+
+from cicman.losses.cic import (
+    agent_diversity_loss,
+    agent_supervision_loss,
+    class_conditional_domain_adversarial_loss,
+    class_conditional_agent_diversity_loss,
+    class_conditional_router_balance_loss,
+    class_conditional_soft_gate_loss,
+    class_domain_prototype_consistency_loss,
+    class_domain_prototype_coverage_loss,
+    class_semantic_coverage_loss,
+    domain_adversarial_loss,
+    health_style_orthogonality_loss,
+    mechanism_fidelity_guided_gate_loss,
+    prediction_consistency_loss,
+    physics_fidelity_router_loss,
+    router_balance_loss,
+    router_consistency_loss,
+    source_calibrated_filterbank_gate_loss,
+    source_calibrated_viewbank_gate_loss,
+    source_view_reliability_loss,
+    style_domain_classification_loss,
+)
+
+__all__ = [
+    "agent_diversity_loss",
+    "agent_supervision_loss",
+    "class_conditional_domain_adversarial_loss",
+    "class_conditional_agent_diversity_loss",
+    "class_conditional_router_balance_loss",
+    "class_conditional_soft_gate_loss",
+    "class_domain_prototype_consistency_loss",
+    "class_domain_prototype_coverage_loss",
+    "class_semantic_coverage_loss",
+    "domain_adversarial_loss",
+    "health_style_orthogonality_loss",
+    "mechanism_fidelity_guided_gate_loss",
+    "prediction_consistency_loss",
+    "physics_fidelity_router_loss",
+    "router_balance_loss",
+    "router_consistency_loss",
+    "source_calibrated_filterbank_gate_loss",
+    "source_calibrated_viewbank_gate_loss",
+    "source_view_reliability_loss",
+    "style_domain_classification_loss",
+]

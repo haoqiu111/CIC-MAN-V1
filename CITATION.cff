@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the CIC-MAN manuscript. Replace this provisional record when a DOI or preprint is assigned."
+title: "CIC-MAN: Causal intervention-consistent multi-agent for target-free cross-dataset bearing fault diagnosis"
+type: software
+version: "R6"
+date-released: 2026-07-22
+authors:
+  - name: "CIC-MAN manuscript authors"
+repository-code: "https://github.com/OWNER/REPOSITORY"

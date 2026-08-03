@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cic-man-r6"
+version = "0.6.0"
+description = "R6 reproduction code for CIC-MAN cross-dataset bearing fault diagnosis"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "scipy",
+  "pandas",
+  "tqdm",
+  "scikit-learn",
+  "PyYAML",
+  "matplotlib",
+  "seaborn",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src", "."]
+include = ["cicman*", "recording_protocol*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
