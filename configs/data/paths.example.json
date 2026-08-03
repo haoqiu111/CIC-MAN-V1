@@ -1,0 +1,14 @@
+{
+  "project_root": "/path/to/workspace",
+  "raw_data_root": "/path/to/workspace/data/raw",
+  "paper1_data_root": "/path/to/workspace/data/paper1_cicman",
+  "raw_copy_root": "/path/to/workspace/data/paper1_cicman/raw_copy",
+  "paderborn_raw": "/path/to/workspace/data/paper1_cicman/raw_copy/paderborn",
+  "ottawa_raw": "/path/to/workspace/data/paper1_cicman/raw_copy/ottawa",
+  "hust_raw": "/path/to/workspace/data/paper1_cicman/raw_copy/hust",
+  "paderborn_extracted": "/path/to/workspace/data/paper1_cicman/extracted/paderborn",
+  "manifest_dir": "/path/to/workspace/data/paper1_cicman/manifests",
+  "split_dir": "/path/to/workspace/data/paper1_cicman/splits",
+  "cache_dir": "/path/to/workspace/data/paper1_cicman/cache",
+  "sanity_report_dir": "/path/to/workspace/data/paper1_cicman/sanity_reports"
+}

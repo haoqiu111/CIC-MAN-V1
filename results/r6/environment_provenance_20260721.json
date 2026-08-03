@@ -1,0 +1,81 @@
+{
+  "schema": "cicman-fmg-environment-provenance-v1",
+  "captured_utc": "2026-07-22T01:15:06.833611+00:00",
+  "verified_execution_environment": {
+    "python": "3.12.13 | packaged by conda-forge | (main, Mar  5 2026, 16:36:12) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "G:\\conda_envs\\myenv\\python.exe",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pytorch": "2.13.0+cu132",
+    "cuda_build": "13.2",
+    "cudnn": 92000,
+    "cuda_available": true,
+    "gpu": "NVIDIA GeForce RTX 5090"
+  },
+  "scope": "Canonical protocol re-inference, P0/P1 revision experiments, and final verification. The archived main-result checkpoints do not embed a framework-version field; their exact historical training environment is therefore not inferred from the files.",
+  "pip_freeze": {
+    "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\tables\\environment_pip_freeze_20260721.txt",
+    "sha256": "1673c8e7af306893b53f751b8418eb9eb9ae90d859f899f897b0e5e4b54d5670"
+  },
+  "archived_v6ic_last_checkpoints": [
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_hust_seed42\\last.pt",
+      "sha256": "c967aed4edbff4da4c844294b16369842b493dc47c633e727299783043b0fa1e"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_hust_seed2025\\last.pt",
+      "sha256": "eb8a0c1cdd9855cf667b9df8e3e7bad144706950d316d5c1b88e16e76e3898fa"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_hust_seed2026\\last.pt",
+      "sha256": "f0e97533affedc016793c9eb696a5ec68ff92781d60aeb12e719b4c249c8b92f"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_hust_seed7\\last.pt",
+      "sha256": "42a42cc850d33602576729a413d66383e8e699e1204d10ee893c0a9ff89179f1"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_hust_seed123\\last.pt",
+      "sha256": "12063283eb189c711875349a2a4bafd0614e909e3b7f731186efc86d9a179bc0"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_ottawa_seed42\\last.pt",
+      "sha256": "d6981f9dd49d622743dfc977607dc9a0f90a6ed97db970026c2f60080d31ef1d"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_ottawa_seed2025\\last.pt",
+      "sha256": "66c3a9b8ae951d1354b4ea97a517935b7704fb899f38190c0b21fb47158f7e12"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_ottawa_seed2026\\last.pt",
+      "sha256": "6bafb6328b6809b7c3e8435faedaaa76a9c3bcde2dfc4dfa1183bca872b78e65"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_ottawa_seed7\\last.pt",
+      "sha256": "8e1fc562a0eb2a0bf2e8acf1b383ad7a94a50defbfd0b25316ca80cdccaaa23d"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_ottawa_seed123\\last.pt",
+      "sha256": "f0aec7c3118fc25ab935caa26d9875c650e0481735cfb394131d0717a3aa8f20"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_paderborn_seed42\\last.pt",
+      "sha256": "06cf5a13fea0831d2ef1ffa6fe5e49e519e40e1842f6c440eb69ce7b0a853efa"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_paderborn_seed2025\\last.pt",
+      "sha256": "65aa44c9086b1fee9540014e0c4ead10a1d3304e850cc0af12890676c5f4bc5b"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_paderborn_seed2026\\last.pt",
+      "sha256": "cdbcb0da170cbf8cc6e51555d10cec2c6cbdf45eebc5fffb76b31ff1213492c9"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_paderborn_seed7\\last.pt",
+      "sha256": "8b974d605a50ad653c109dde2da241023a8965b90aafbeae3d5791a215ddde78"
+    },
+    {
+      "path": "D:\\paper1\\paper1_cicman_experiments\\outputs\\checkpoints\\v2_cicman_v6ic_target_paderborn_seed123\\last.pt",
+      "sha256": "da4514fddd63477d0d3262448d4de4d84492a46e6ec411ab55a6e8dcba647ebe"
+    }
+  ]
+}

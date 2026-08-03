@@ -1,0 +1,171 @@
+[2026/8/2 23:14:33] [Log] -------------------------------------------
+------------------
+[2026/8/2 23:14:33] [Log] crypto.publicDecrypt called
+------------------
+[2026/8/2 23:14:33] [Log] Key: -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7nVoGCHqIMJyqgALEUrc
+5JJhap0+HtJqzPE04pz4y+nrOmY7/12f3HvZyyoRsxKdXTZbO0wEHFIh0cRqsuaJ
+PyaOOPbA0BsalofIAY3mRhQQ3vSf+rn3g+w0S+udWmKV9DnmJlpWqizFajU4T/E4
+5ZgMNcXt3E1ips32rdbTR0Nnen9PVITvrbJ3l6CI2BFBImZQZ2P8N+LsqfJsqyVV
+wDkt3mHAVxV7FZbfYWG+8FDSuKQHaCmvgAtChx9hwl3J6RekkqDVa6GIV13D23LS
+qdk0Jb521wFJi/V6QAK6SLBiby5gYN6zQQ5RQpjXtR53MwzTdiAzGEuKdOtrY2Me
+DwIDAQAB
+-----END PUBLIC KEY-----
+
+
+------------------
+[2026/8/2 23:14:33] [Log] Buffer (Hex): 75736572406578616d706c652e636f6d
+------------------
+[2026/8/2 23:14:33] [Log] BrowserWindow created
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("document.loadData") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("document.loadData") result: "{\"snap\":null,\"filePath\":\"D:\\\\paper1\\\\paper1-github\\\\docs\\\\R6_BOUNDARY.md\",\"backups\":null,\"shouldReadFromDisk\":false,\"windowCounts\":1}"
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("setting.getRecentFiles") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("setting.getRecentFiles") result: {"files":[{"name":"R6_BOUNDARY.md","path":"D:\\paper1\\paper1-github\\docs\\R6_BOUNDARY.md","date":1785683673496},{"name":"scope_rul_G0_UConn_LFP_建模者未接触声明_v1.md","path":"D:\\Aerospace paper\\mcd_pi_r0\\docs\\scope_rul_G0_UConn_LFP_建模者未接触声明_v1.md","date":1785160800413},{"name":"scope_rul_G0_UConn_LFP_导师独立托管协议_v1.md","path":"D:\\Aerospace paper\\mcd_pi_r0\\docs\\scope_rul_G0_UConn_LFP_导师独立托管协议_v1.md","date":1785160359633},{"name":"agent_prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\Nio_test_case_generator_file--RL_v5.1\\test_case_generator\\prompts\\agent_prompt.md","date":1755140841333},{"name":"prompt2.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\Nio_test_case_generator_file--RL_v1.0\\test_case_generator\\prompts\\prompt2.md","date":1754638755244},{"name":"prompt1.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\Nio_test_case_generator_file--上线--一阶段\\test_case_generator_v4\\prompt1.md","date":1754449699413},{"name":"Generate_prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\test_case_generator_v2串联\\Generate_prompt.md","date":1752809049155},{"name":"prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\test_case_generator_v2串联\\prompt.md","date":1752808657277},{"name":"prompt1.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\test_case_generator_v2串联\\prompt1.md","date":1752808617763},{"name":"refine_prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\weilai_generate_test_v5\\refine_prompt.md","date":1752801860024},{"name":"prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\weilai_generate_test_v5\\prompt.md","date":1752801821154},{"name":"prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\test_case_generator\\prompt.md","date":1752659805007},{"name":"refine_prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\weilai_generate_test_v3\\refine_prompt.md","date":1751441894763},{"name":"Generate_prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\weilai_generate_test_v3\\Generate_prompt.md","date":1751441877169},{"name":"Generate_prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\weilai_project\\Generate_prompt.md","date":1751251776347},{"name":"refine_prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\weilai_project\\refine_prompt.md","date":1751251770667},{"name":"prompt.md","path":"C:\\Users\\Asus\\Desktop\\work\\蔚来汽车\\weilai_project\\prompt.md","date":1751016995018},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\Agent\\MultiAgents-with-Langgraph-TravelItineraryPlanner-main\\README.md","date":1751005891279},{"name":"README.md","path":"G:\\Anaconda3\\envs\\myenvs\\camel\\README.md","date":1745848899118},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\Agent\\handy-multi-agent-main\\README.md","date":1745805107469},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\knowbase-main\\README.md","date":1744092799461},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\work\\study\\Lung-Opacity-main\\Lung-Opacity-main\\README.md","date":1743427848371},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\新建文件夹\\BGF-YOLO-main\\README.md","date":1743427071431},{"name":"Dockerfile.text","path":"C:\\Users\\Asus\\Desktop\\work\\STtest\\Dockerfile.text","date":1742306693568},{"name":"deepseek模型微调指南.md","path":"C:\\Users\\Asus\\Desktop\\work\\LLM\\deepseek模型微调指南.md","date":1739505315495},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\主动脉夹层检测\\Fracture_Detection_Improved_YOLOv8-main\\README.md","date":1739331491602},{"name":"AID重难点整理_2024版.md","path":"E:\\python\\AID重难点整理_2024版.md","date":1739175553282},{"name":"基于局部特征的人体行为识别算法研究_宋琳.caj","path":"G:\\WeChatSetup\\wechat数据\\WeChat Files\\wxid_uua8dv4g7h0t11\\FileStorage\\File\\2025-02\\基于局部特征的人体行为识别算法研究_宋琳.caj","date":1739109191984},{"name":"README.md","path":"C:\\Users\\Asus\\AppData\\Local\\Temp\\07930d44-e082-4c5b-99e6-71d3f293552b_archive.zip.52b\\lizard_labels\\Lizard_Labels\\README.md","date":1739006977614},{"name":"README_KL.md","path":"D:\\Dify\\dify-main\\README_KL.md","date":1737358623242},{"name":"README.md","path":"D:\\WSI-based-deep-learning-classifier-in-papillary-renal-cell-carcinoma-main\\README.md","date":1737358240656},{"name":"License.md","path":"C:\\Users\\Asus\\Desktop\\work\\Steady-State-Flow-With-Neural-Nets\\Steady-State-Flow-With-Neural-Nets-master\\License.md","date":1737082188359},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\work\\Steady-State-Flow-With-Neural-Nets\\Steady-State-Flow-With-Neural-Nets-master\\README.md","date":1737078164027},{"name":"data.text","path":"C:\\Users\\Asus\\Desktop\\work\\AorticdissectionYOLOV8\\data.text","date":1736129781206},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\work\\study\\WSI-based-deep-learning-classifier-in-papillary-renal-cell-carcinoma-main\\README.md","date":1735393737774},{"name":"README.md","path":"D:\\WSI-based-deep-learning-classifier-in-papillary-renal-cell-carcinoma-main\\WSI-based deep learning classifier in papillary renal cell carcinoma\\README.md","date":1735393684670},{"name":"README.md","path":"C:\\Users\\Asus\\Desktop\\work\\Aortic dissection(1)\\Aortic Dissection\\CMTGF-master\\README.md","date":1735393624435},{"name":"qa.md","path":"D:\\Aortic Dissection\\CMTGF-master\\docs\\qa.md","date":1735393536907},{"name":"README.md","path":"D:\\Aortic Dissection\\CMTGF-master\\README.md","date":1735393491914},{"name":"README.md","path":"D:\\TransUNet-main\\README.md","date":1735393441472}],"folders":[]}
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("document.getSnapWithValidation") args: [null]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("document.getSnapWithValidation") result: "{\"snap\":null,\"shouldReadFromDisk\":false}"
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("document.hasDuplicateName") args: ["R6_BOUNDARY.md"]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("document.hasDuplicateName") result: false
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("document.setLastSync") args: ["2026-08-02T15:14:34.059Z"]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("document.setLastSync") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.setTitle") args: ["R6_BOUNDARY.md - Typora"]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("theme.setThemeSource") args: ["system"]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("theme.setThemeSource") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("setting.put") args: ["backgroundColor","#FFFFFF"]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("setting.put") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("setting.put") args: ["isDarkMode",false]
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("setting.put") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("setting.getDownloadingDicts") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("setting.getDownloadingDicts") result: "[]"
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("setting.getUserDictionaryPath") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("setting.getUserDictionaryPath") result: "C:\\Users\\Asus\\AppData\\Roaming\\Typora\\typora-dictionaries"
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .invoke("setting.getUserDict") args: []
+------------------
+[2026/8/2 23:14:34] [Log] [IPC] .handle("setting.getUserDict") result: "{}"
+------------------
+[2026/8/2 23:14:35] [Log] [IPC] .invoke("setting.getKeyBinding") args: []
+------------------
+[2026/8/2 23:14:35] [Log] [IPC] .handle("setting.getKeyBinding") result: {"_useLowerCase":true}
+------------------
+[2026/8/2 23:14:37] [Log] [Response] 200 https://typora.io/releases/windows_64.json
+------------------
+[2026/8/2 23:14:37] [Log] [Response Body]: {
+  "name": "typora",
+  "version": "1.14.8",
+  "releaseNoteLink": "https://typora.io/releases/stable?from-old",
+  "download": "https://downloads.typora.io/windows/typora-update-x64-1.14.8.exe",
+  "downloadCN": "https://downloads.typoraio.cn/windows/typora-update-x64-1.14.8.exe",
+  "alternatives": {
+    "6.1": {
+      "version": "1.5.12",
+      "download": "https://downloads.typora.io/windows/typora-setup-x64-1.5.12.exe",
+      "downloadCN": "https://downloads.typoraio.cn/windows/typora-setup-x64
+------------------
+[2026/8/2 23:14:37] [Log] BrowserWindow created
+------------------
+[2026/8/2 23:14:37] [Log] [Response] 200 https://typora.io/releases/stable?from-old
+------------------
+[2026/8/2 23:14:37] [Log] [Response Body]: <!doctype html><html lang="en"><head><meta charset="utf-8"><title>Typora — stable release channel</title><link rel="stylesheet" type="text/css" href="https://fonts.loli.net/css?family=Open+Sans:700,400&subset=latin"><link rel="stylesheet" type="text/css" href="/css/release.css"><link rel="icon" href="/img/favicon-16.png" sizes="16x16"><link rel="icon" href="/img/favicon-32.png" sizes="32x32"><link rel="icon" href="/img/favicon-64.png" sizes="64x64"><link rel="icon" href="/img/favicon-128.png" si
+------------------
+[2026/8/2 23:14:37] [Log] [IPC] .invoke("app.onCloseWin") args: [null]
+------------------
+[2026/8/2 23:14:37] [Log] [IPC] .handle("app.onCloseWin") result: 
+------------------
+[2026/8/2 23:14:37] [Log] [Response] 200 https://typora.io/css/release.css
+------------------
+[2026/8/2 23:14:37] [Log] [Response Body]: :root{--side-bar-bg-color:#fafafa;--control-text-color:#777}html{font-size:16px;-webkit-font-smoothing:antialiased}
+body{font-family:"Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,'Segoe UI Emoji',sans-serif;color:#333;line-height:1.6;margin:0}
+#write{max-width:860px;margin:0 auto;padding:30px;padding-bottom:100px}#write>ul:first-child,#write>ol:first-child{margin-top:30px}
+a{color:#4183c4}h1,h2,h3,h4,h5,h6{position:relative;margin-top:1rem;margin-bottom:1rem;font-weight:bold;line-hei
+------------------
